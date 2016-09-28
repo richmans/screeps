@@ -1,0 +1,9 @@
+{
+  "name": "screeps",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-screeps": "~1.2.1"
+  }
+}
